@@ -13,9 +13,9 @@ This application is Client side. MQTT broker used is "Mathworks Thingspeak" free
 ---
 
 ## Components
-- ESP8266 hardware module, based on STM HAL libraries.
-- Paho MQTT C Packet external library.
-- cJSON external library for handling requests in C langauge.
+- ESP8266 WiFi hardware module, based on STM HAL libraries.
+- Paho MQTT C Packet external library for requests serialization and deserialization.
+- cJSON external library for handling requests in JSON using C langauge.
 - MQTT Client module. to deal in general with different types of MQTT brokers. publish topics and subscribe to topics.
 - Thingspeak MQTT module. wrapper application for MQTT Client module to handle requests with Thingspeak Broker using JSON.
 

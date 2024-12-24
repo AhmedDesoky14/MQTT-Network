@@ -34,7 +34,7 @@ This application is Client side. MQTT broker used is "Mathworks Thingspeak" free
 **NOTE:** cryptography keys need to be configured. Examples are provided.
 
 **Authors:**
-	Ahmed Desoky,
+	Ahmed Desoky
 	
 **Emails:**
-	ahmed0201150@gmail.com,
+	ahmed0201150@gmail.com

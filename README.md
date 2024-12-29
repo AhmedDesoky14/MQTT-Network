@@ -29,7 +29,7 @@ This application is Client side. MQTT broker used is "Mathworks Thingspeak" free
 ---
 
 **All communications and data exchange are handled asynchronously using:**
-- Interrupts by NVIC on STM32F4x microcontrollers
+- Interrupts by ARM Cortex M4 NVIC on STM32F4x microcontrollers
 
 **NOTE:** cryptography keys need to be configured. Examples are provided.
 
